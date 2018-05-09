@@ -19,7 +19,7 @@
   },
   "source_files": "helpshift-sdk-ios-v7.0.0/*.h",
   "resources": [
-    "helpshift-sdk-ios-v7.0.0/HsUIResourceBundle.bundle",
+    "helpshift-sdk-ios-v7.0.0/HsUIResources.bundle",
     "helpshift-sdk-ios-v7.0.0/HsLocalization.bundle",
     "helpshift-sdk-ios-v7.0.0/HSThemes/*.plist"
   ],

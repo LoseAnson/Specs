@@ -6,8 +6,8 @@
   "homepage": "https://github.com/Temasys/SKYLINK-iOS",
   "license": "MIT",
   "authors": {
-    "Temasys Communications - Xiangrong": "xiangrong@temasys.io",
-    "Temasys Communications - Romain Pellen": "romain.pellen@temasys.io"
+    "Romain Pellen (Temasys Communications)": "romain.pellen@temasys.io",
+    "Xiangrong  (Temasys Communications)": "xiangrong@temasys.io"
   },
   "source": {
     "git": "https://github.com/Temasys/SKYLINK-iOS.git",
@@ -45,5 +45,5 @@
   },
   "vendored_frameworks": "SKYLINK.framework",
   "preserve_paths": "SKYLINK.framework",
-  "pushed_with_swift_version": "4.1"
+  "pushed_with_swift_version": "4.0"
 }
